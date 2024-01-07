@@ -164,3 +164,22 @@ main {
   border-radius: 5px;
   border: 0;
 }
+
+footer {
+  margin-top: 130px;
+  color: #f8f8f8;
+  background-color: #151414;
+}
+
+.footer-main {
+  width: 76%;
+  margin: 0 auto;
+  padding-top: 130px;
+}
+
+.icon-group {
+  display: flex;
+}
+
+.fa-facebook {
+}
