@@ -91,3 +91,76 @@ main {
   font-weight: 400;
   line-height: 26px;
 }
+
+.fa-check {
+  height: 24px;
+  width: 24px;
+  color: #16d887;
+}
+
+.plan-title {
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 105px;
+}
+
+.plan-main {
+  display: flex;
+  gap: 218px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.habit-title {
+  color: #151414;
+  text-align: center;
+  font-size: 27px;
+  font-weight: 700;
+}
+
+.plan-habit > img {
+  width: 92px;
+  height: 92px;
+}
+
+.habit-caption {
+  color: #737272;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+  margin-top: 16px;
+}
+
+/* mindset section */
+
+.mindset {
+  margin-top: 130px;
+  height: 300px;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #f15b22 0%, rgba(241, 91, 34, 0) 100%),
+    url(../images/watch.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 8px;
+}
+
+.mindset-caption {
+  padding: 59px 0 0 64px;
+  color: #fff;
+  font-family: Work Sans;
+  font-size: 40px;
+  font-weight: 700;
+  width: 550px;
+}
+
+.secondary {
+  margin-top: 24px;
+  margin-left: 64px;
+  padding: 20px 36px;
+  font-size: 20px;
+  color: #f15b22;
+  border-radius: 5px;
+  border: 0;
+}
